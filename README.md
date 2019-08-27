@@ -9,5 +9,5 @@
   <li>Change current working directory in MRFS.</li>
 </ol>
 
-### Read mrfs-assignment.pdf for full detail
+Refer to <a href="https://github.com/himanshu746/mrfs/blob/master/mrfs-assignment.pdf">this document</a> for full detail.
 
